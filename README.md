@@ -16,6 +16,9 @@ You will also see any lint errors in the console.
 
 ## Dependencies
 
-### _react-slick_
+```
+npm i react-slick
+npm i slick-carousel
+```
 
-### _slick-carousel_
+- Github: [@mr-chidex](https://github.com/mr-chidex)
